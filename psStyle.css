@@ -1,0 +1,34 @@
+.psBody {
+    background-color: #e8ffe8;
+  }
+
+.psTitle {
+    color: #003d01;
+    font-family: Apple Chancery, cursive;
+    font-size: 400%;
+    text-align: center;
+  }
+
+.psBanner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    border-style: groove;
+}
+
+.psServices{
+    font-size: x-large;
+  }
+
+.psServlist{
+    font-size: xx-large;
+}
+
+.psDescription{
+    font-style: italic;
+    font-size: x-large;
+}
+.psContact{
+    text-align: center;
+}
